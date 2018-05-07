@@ -1,0 +1,104 @@
+﻿[
+   {
+      "Name": "Dhoni",
+      "Credits": 9,
+      "Team": "CHN",
+      "Category": 0
+   },
+   {
+      "Name": "DK",
+      "Credits": 9,
+      "Team": "KOL",
+      "Category": 0
+   },
+   {
+      "Name": "Raina",
+      "Credits": 10,
+      "Team": "CHN",
+      "Category": 1
+   },
+   {
+      "Name": "Uthappa",
+      "Credits": 9.5,
+      "Team": "KOL",
+      "Category": 1
+   },
+   {
+      "Name": "Lynn",
+      "Credits": 9.5,
+      "Team": "KOL",
+      "Category": 1
+   },
+   {
+      "Name": "Rayudu",
+      "Credits": 9,
+      "Team": "CHN",
+      "Category": 1
+   },
+   {
+      "Name": "Plessis",
+      "Credits": 9,
+      "Team": "CHN",
+      "Category": 1
+   },
+   {
+      "Name": "Gill",
+      "Credits": 8,
+      "Team": "KOL",
+      "Category": 1
+   },
+   {
+      "Name": "Watson",
+      "Credits": 10.5,
+      "Team": "CHN",
+      "Category": 2
+   },
+   {
+      "Name": "Narine",
+      "Credits": 10,
+      "Team": "KOL",
+      "Category": 2
+   },
+   {
+      "Name": "Russell",
+      "Credits": 9.5,
+      "Team": "KOL",
+      "Category": 2
+   },
+   {
+      "Name": "Bravo",
+      "Credits": 9,
+      "Team": "CHN",
+      "Category": 2
+   },
+   {
+      "Name": "Kuldeep",
+      "Credits": 8.5,
+      "Team": "KOL",
+      "Category": 3
+   },
+   {
+      "Name": "Chawla",
+      "Credits": 8.5,
+      "Team": "KOL",
+      "Category": 3
+   },
+   {
+      "Name": "Harbhajan",
+      "Credits": 8,
+      "Team": "CHN",
+      "Category": 3
+   },
+   {
+      "Name": "Ngidi",
+      "Credits": 8,
+      "Team": "CHN",
+      "Category": 3
+   },
+   {
+      "Name": "Mavi",
+      "Credits": 8,
+      "Team": "KOL",
+      "Category": 3
+   }
+]
